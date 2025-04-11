@@ -13,3 +13,11 @@ Files Used:
 
 💡 You can replace with any similar sales/financial dataset with columns for Sales, Profit, Order Date, Region, Category, etc.
 
+# 🧱 Dashboard Features
+KPI Card Visuals
+
+Time Series Line Charts for trend analysis
+
+Slicers/Filters for interactivity (Region, Category, Time)
+
+Clean and consistent color theme
