@@ -9,7 +9,7 @@ Microsoft Excel / CSV (Data Preparation)
 Dataset Source: Kaggle - Superstore Dataset
 Files Used:
 
-Orders.csv
+<a href="https://github.com/chinababu-n/Sales-Financial-Dashboard/blob/main/task%204.pbix">Dataset</a>
 
 💡 You can replace with any similar sales/financial dataset with columns for Sales, Profit, Order Date, Region, Category, etc.
 
