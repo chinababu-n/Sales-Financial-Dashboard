@@ -21,3 +21,10 @@ Time Series Line Charts for trend analysis
 Slicers/Filters for interactivity (Region, Category, Time)
 
 Clean and consistent color theme
+# Screenshots
+![Screenshot 2025-04-11 212716](https://github.com/user-attachments/assets/4c4ddb64-6557-4c22-9351-19fa95c7f137)
+![slicers](https://github.com/user-attachments/assets/ba81e946-fba6-43fd-a0b7-3c4593b6340d)
+![Screenshot 2025-04-11 212757](https://github.com/user-attachments/assets/464f75a4-dcbe-4106-93c6-3a6e4e5a33fe)
+![Screenshot 2025-04-11 212850](https://github.com/user-attachments/assets/caea8ce8-54b7-4861-a08a-b86dc7c30251)
+
+
